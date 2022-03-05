@@ -1,0 +1,333 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  /* header */
+  .app-lab {
+   
+    font-size: 30px;
+}
+.btn1{
+  margin-left: -5px;
+  margin-top: 0px;
+}
+/* banner */
+.cid {
+  right: 100px;}
+
+  .sl-text h1 {
+    font-size: 27px;
+}
+
+.sl-text h3 {
+  font-size: 20px;
+}
+.sl-text p {
+  font-weight: 300;
+  font-size: 16px;
+}
+.contact-b {
+  padding: 8px 25px;
+}
+.sl-text {
+  padding-top: 55px;
+}
+.banner {
+  min-height: 523px;
+}
+
+/* about */
+.wrap p{
+  width:315px;
+    margin-left: 0px;
+}
+.text-p {
+  margin-top: 33px;
+  margin-left: 25px;
+}
+.wrap h1 {
+  font-size: 35px
+}
+.p {
+  width: 315px !important;
+  margin-left: -10px !important;
+}
+
+/* service */
+.service-part i {
+  font-size: 40px;
+}
+.service-part h2 {
+  font-size: 19px;
+}
+.section2 {
+  padding-bottom: 34px;
+
+}
+  /* feature section */
+  .p2 {
+    font-size: 18px;
+    width: 302px;
+    margin-left: 0px;
+}
+
+  /* alada  */
+  .service5 {
+    padding-top: 55px;
+    padding-bottom:0px;
+}
+.service-p i {
+  font-size: 34px;
+}
+.service-p {
+  margin-top: 40px;
+}
+.service-p h2 {
+  font-size: 27px;
+}
+.map {
+  width:318px;
+}
+.footer-part h2{
+  font-size: 28px;
+}
+.copy-text {
+  font-size: 16px;
+}
+.footer {
+  padding-bottom: 25px;
+}
+  
+ }
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .app-lab {
+   
+    font-size: 30px;
+}
+.btn1{
+  margin-left: -5px;
+  margin-top: 0px;
+}
+/* banner */
+.cid {
+  right: 180px;}
+
+  .sl-text h1 {
+    font-size: 27px;
+}
+
+.sl-text h3 {
+  font-size: 20px;
+}
+.sl-text p {
+  font-weight: 300;
+  font-size: 16px;
+}
+.contact-b {
+  padding: 8px 25px;
+}
+.sl-text {
+  padding-top: 55px;
+}
+.banner {
+  min-height: 470px;
+}
+/* about */
+.wrap p{
+  width: 539px;
+    margin-left: 0px;
+}
+.text-p {
+  margin-top: 33px;
+  margin-left: 25px;
+}
+.wrap h1 {
+  font-size: 40px
+}
+.p {
+  width: 536px !important;
+  margin-left: 0px !important;
+}
+
+/* service */
+.service-part i {
+  font-size: 40px;
+}
+.service-part h2 {
+  font-size: 19px;
+}
+.section2 {
+  padding-bottom: 34px;
+
+}
+  /* feature section */
+  .wrap3 h1 {
+    font-size: 38px;
+  }
+    .p2 {
+      width: 740px;
+      margin-left: -22px;
+  }
+
+  /* alada  */
+  .service5 {
+    padding-top: 55px;
+    padding-bottom:0px;
+}
+.service-p i {
+  font-size: 34px;
+}
+.service-p {
+  margin-top: 42px;
+}
+.map {
+  width:572px;
+}
+.footer-part h2{
+  font-size: 28px;
+}
+.copy-text {
+  font-size: 17px;
+}
+.footer {
+  padding-bottom: 31px;
+}
+   
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.app-lab {
+   
+    font-size: 30px;
+}
+.btn1{
+  margin-left: -5px;
+  margin-top: 0px;
+}
+/* banner */
+.cid {
+  right: 100px;}
+
+  .sl-text h1 {
+    font-size: 27px;
+}
+
+.sl-text h3 {
+  font-size: 20px;
+}
+.sl-text p {
+  font-weight: 300;
+  font-size: 16px;
+}
+.contact-b {
+  padding: 8px 25px;
+}
+/* about{
+   */
+   .wrap p {
+    margin-left:-38px;
+   }
+   .wrap p {
+    width: 768px;
+   }
+   .text {
+    text-align: center;
+   }
+    .text-p {
+      margin-top: 18px;
+      margin-left: 32px;
+  }
+  .wrap h1 {
+    font-size: 38px;}
+  .p {
+    width: 726px !important;
+    margin-left: -11px !important;
+}
+/* service */
+.service-part i {
+  font-size: 40px;
+}
+.service-part h2 {
+  font-size: 19px;
+}
+.section2 {
+  padding-bottom: 34px;
+
+}
+  /* feature section */
+  .wrap3 h1 {
+    font-size: 38px;
+  }
+    .p2 {
+      width: 740px;
+      margin-left: -22px;
+  }
+
+  /* alada  */
+  .service5 {
+    padding-top: 55px;
+    padding-bottom: 48px;
+}
+.service-p i {
+  font-size: 34px;
+}
+.service-p {
+  margin-top: 42px;
+}
+.map {
+  width: 760px;
+}
+.footer-part h2{
+  font-size: 28px;
+}
+.copy-text {
+  font-size: 17px;
+}
+.footer {
+  padding-bottom: 31px;
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .header {
+    padding: 0px 0;
+}
+.app-lab {
+  font-size: 30px;
+ }
+ .menu li {
+  padding-right: 0px;
+}
+.cid {
+  right: 172px;}
+
+  .sl-text h1 {
+    font-size: 27px;
+}
+
+.sl-text h3 {
+  font-size: 20px;
+}
+.sl-text p {
+  font-weight: 300;
+  font-size: 16px;
+}
+.contact-b {
+  padding: 8px 25px;
+}
+/* about{
+   */
+   .wrap p {
+    margin-left: 80px;
+   }
+   .p {
+    width: 792px !important;
+    margin-left: 97px !important;
+   }
+   .p2 {
+    margin-left: 75px;
+
+}
